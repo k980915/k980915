@@ -1,6 +1,6 @@
 # KIM SANG YEOB 😉
 
-![SANG YEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=k980915_icons=true&theme=radical)
+![SANG YEOB's GitHub stats](https://github-readme-stats.vercel.app/api?k980915=anuraghazra&show_icons=true&theme=radical)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
